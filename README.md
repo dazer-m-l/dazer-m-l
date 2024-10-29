@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Sergio Monter]
+# 👋 ¡Hola! Soy Sergio Monter
 
 ### 💻 Desarrollador de Software | 🚀 Apasionado por la tecnología y el código abierto
 
@@ -24,7 +24,7 @@ Soy un desarrollador web con experiencia estudiantil en tecnologías como **C++*
 
 ### 🔥 **Proyectos Destacados**
 
-#### 🩺 [Sistema Gestor de Citas Médicas (SIGEMA)](https://github.com/dazer-m-l/sistema-citas-medicas)
+#### 🩺 [Sistema Gestor de Citas Médicas (SIGEMA)](https://github.com/dazer-m-l/SIGEMA)
 Un sistema de gestión médica para clínicas. **Tecnologías**: React, Node.js, SQL, Tailwind CSS.
 
 ---
