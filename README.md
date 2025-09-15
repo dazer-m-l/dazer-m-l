@@ -10,7 +10,7 @@
 ---
 Soy un desarrollador web con experiencia estudiantil en tecnologías como **C++** **JavaScript**, **React**, **Node.js**, y **SQL**. Me encanta construir aplicaciones robustas y eficientes que impacten positivamente la vida de los usuarios.
 
-- 🌱 Actualmente estoy aprendiendo **C#**, **JAVA**, **POSTGRESS**, **KOTLIN**, **FLUTTER**.
+- 🌱 Actualmente estoy aprendiendo **C#**, **JAVA**, **POSTGRESS**, **REACT NATIVE**, **CSS**.
 - 🤝 Me encanta colaborar en proyectos de **código abierto**.
 - 📫 Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/sergio-m-l-ab6614259/).
 
